@@ -68,7 +68,7 @@
 - [Alpine](https://github.com/schuhumi/alpine_kindle) - Run Alpine Linux on the Kindle
 - [UsbNetLite](https://github.com/notmarek/kindle-usbnetlite) - SSH Into your Kindle
 - [Illusion](https://github.com/penguins184/Penguins-Kindle-Wiki/blob/main/Illusion-Guide.md) - A scriptlet which allows you to create HTML, CSS, JS apps for Kindle
-- [ScreenControl](https://kindlemodshelf.me/screencontrol.html) - Mirrors your Kindle's screen online, allowing input
+- [ScreenControl](https://kindlemodshelf.me/screencontrol) - Mirrors your Kindle's screen online, allowing input
 
 ### Audio
 - [KinAMP](https://github.com/kbarni/KinAMP) - Listen to music via bluetooth
@@ -77,7 +77,7 @@
 
 ### Miscellaneous
 
-- [KPM](https://github.com/Gingrspacecadet/KPM) - A Kindle Package Manager. Download tweaks directly on-device!
+- [KPM](https://github.com/gingrspacecadet/KPM) - A Kindle Package Manager. Download tweaks directly on-device!
 
 ## Related Lists
 
